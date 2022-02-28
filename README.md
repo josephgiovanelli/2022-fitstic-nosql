@@ -2,6 +2,11 @@
 
 NoSQL (Not Only SQL) exercises against relational, key-value, document, graph, and columnar databases.
 
+## Description
+
+- The slides folder contains the material teached during classes.
+- The code folder contains the material for the exercises.
+
 ## Install
 
 - Install `docker`
