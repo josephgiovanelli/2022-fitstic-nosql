@@ -93,11 +93,11 @@ This is the old way, but use it only if docker fails.
 - Lecture 10 (3h): Test MongoDB + Redis + Real datasets
 -->
 
-- Lecture 01 (4h): Introduction to NoSQL databases
-- Lecture 02 (4h): Cassandra
-- Lecture 03 (4h): Test teoria, Cassandra
+- Lecture 01 (4h): Introduction to NoSQL databases (Teoria)
+- Lecture 02 (3h): Teoria, Cassandra
+- Lecture 03 (4h): Test teoria [a link](https://forms.gle/yUaMrpZTMDj2tN4QA), Cassandra
 - Lecture 04 (4h): Cassandra, Neo4J
 - Lecture 05 (4h): Test Cassandra, Neo4J
 - Lecture 06 (4h): Neo4J, MongoDB Find
 - Lecture 07 (3h): Test Neo4J, MongoDB Find
-- Lecture 08 (3h): Test MondoDB, ...
+- Lecture 08 (3h): Test MondoDB, Use-cases
