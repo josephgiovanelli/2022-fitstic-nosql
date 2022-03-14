@@ -95,7 +95,7 @@ This is the old way, but use it only if docker fails.
 
 - Lecture 01 (4h): Introduction to NoSQL databases (Teoria)
 - Lecture 02 (3h): Teoria, Cassandra
-- Lecture 03 (4h): Test teoria [a link](https://forms.gle/yUaMrpZTMDj2tN4QA), Cassandra
+- Lecture 03 (4h): [Test teoria](https://forms.gle/yUaMrpZTMDj2tN4QA), Cassandra
 - Lecture 04 (4h): Cassandra, Neo4J
 - Lecture 05 (4h): Test Cassandra, Neo4J
 - Lecture 06 (4h): Neo4J, MongoDB Find
