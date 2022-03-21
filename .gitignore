@@ -1,6 +1,5 @@
 .pptx
 .ppt
-*.solution.*
 *.test.*
 !dummy.test.js
 kv_database
