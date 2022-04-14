@@ -101,5 +101,5 @@ This is the old way, but use it only if docker fails.
 - Lecture 04 - 17/3 - 14.30/18.30 (4h): [Test teoria](https://forms.gle/yUaMrpZTMDj2tN4QA), Cassandra
 - Lecture 05 - 24/3 - 14.30/17.30 (3h): [Test Cassandra](https://forms.gle/gcFwj54gvad9tQ4z5), Neo4J
 - Lecture 06 - 28/3  - 14.30/18.30 (4h): Neo4J
-- Lecture 07 - 5/4  - 14.30/18.30 (4h): [Test Neo4J](https://forms.gle/SdGf9ydgtPd8FKNP9), MongoDB
-- Lecture 08 - 14/4 - 9.30/13.30 (4h): Test MongoDB, Use-cases
+- Lecture 07 - 5/4  - 14.30/18.30 (4h): [Test Neo4J](https://forms.gle/SdGf9ydgtPd8FKNP9), MongoDB basis
+- Lecture 08 - 14/4 - 9.30/13.30 (4h): [Test MongoDB](https://forms.gle/cVxbCEP2DgRQRH3p7), MongoDB advanced
